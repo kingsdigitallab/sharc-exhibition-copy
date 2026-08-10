@@ -1,0 +1,48 @@
+name: Publish to GitHub Pages
+
+# Publishes the committed html/ folder to GitHub Pages.
+# The html/ folder is committed (it is not gitignored); regenerate it locally
+# by running `python main.py` whenever the source exhibition changes.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'html/**'
+      - '.github/workflows/pages.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Verify html/ exists
+        run: test -f html/index.html
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: html
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    permissions:
+      pages: write
+      id-token: write
+    steps:
+      - id: deploy
+        uses: actions/deploy-pages@v4

@@ -38,6 +38,29 @@ With no arguments it mirrors the SHARC exhibition into `./html/`.
   URL so they still load when online. Re-run from an unrestricted network to
   fill them in.
 
+## Publishing to GitHub Pages
+
+The `html/` folder is committed to the repo (it is the published artifact).
+A workflow at `.github/workflows/pages.yml` publishes it to GitHub Pages
+whenever `html/**` changes on `main`:
+
+- In the repo **Settings → Pages → Build and deployment → Source**, select
+  **GitHub Actions**.
+- Push (or merge) a change under `html/` to `main`. The workflow uploads the
+  `html/` folder as a Pages artifact and deploys it. You can also run it
+  manually via the Actions tab (**workflow_dispatch**).
+
+To refresh the published mirror, regenerate it locally and commit the
+updated `html/` folder:
+
+```bash
+pip install -r requirements.txt
+python main.py
+git add html
+git commit -m "docs: refresh html mirror"
+git push
+```
+
 ## License
 
 MIT
