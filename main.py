@@ -733,9 +733,8 @@ def yt_note(vid, relbase, has_poster):
         '<div class="offline-embed-note" '
         'style="margin:1.5em 0;padding:1em;background:#f4f4f4;border-left:4px solid #999;">'
         + img +
-        '<p style="margin:0;font-size:.95rem;">This <strong>video</strong> is hosted on YouTube and plays in the '
-        'embedded player below when you are online. To watch it fully offline you would need to download the '
-        'video file separately (e.g. with <code>yt-dlp</code>). '
+        '<p style="margin:0;font-size:.95rem;">This <strong>video</strong> is hosted on YouTube and '
+        'plays in the embedded player below when you are online. '
         '<a href="https://www.youtube.com/watch?v=' + vid + '" target="_blank" rel="noopener">Open on YouTube</a>.</p>'
         '</div>'
     )
@@ -745,10 +744,8 @@ def sketchfab_note(mid):
     return (
         '<div class="offline-embed-note" '
         'style="margin:1.5em 0;padding:1em;background:#f4f4f4;border-left:4px solid #999;">'
-        '<p style="margin:0;font-size:.95rem;">This <strong>3D model</strong> is hosted on Sketchfab and requires an '
-        'internet connection to view in the embedded player below. To view it offline you would need to download '
-        'the model (e.g. as a <code>.glb</code> file) and a local viewer such as Google '
-        '&lt;model-viewer&gt;. '
+        '<p style="margin:0;font-size:.95rem;">This <strong>3D model</strong> is hosted on Sketchfab and '
+        'requires an internet connection to view in the embedded player below. '
         '<a href="https://sketchfab.com/3d-models/' + mid + '" target="_blank" rel="noopener">Open on Sketchfab</a>.</p>'
         '</div>'
     )
@@ -839,13 +836,9 @@ because the media/viewer is hosted by a third party. The embed is kept intact
 so it works when you are online, and a captioned placeholder explains it.
 
 - **3D models** (Sketchfab `<iframe>`): the model and its WebGL viewer are
-  hosted on sketchfab.com. To make these fully offline you would need to
-  download the model (e.g. a `.glb` from Sketchfab's download API, which may
-  require an account) and embed it with a local viewer such as
-  [<model-viewer>](https://modelviewer.dev/).
-- **Videos** (YouTube `<iframe>`): the video stream is served by YouTube. To
-  make these fully offline you would need to download each video (e.g. with
-  `yt-dlp`) and swap the `<iframe>` for a local `<video>` tag.
+  hosted on sketchfab.com and cannot run without an internet connection.
+- **Videos** (YouTube `<iframe>`): the video stream is served by YouTube and
+  cannot play without an internet connection.
 
 ## Possible gaps
 

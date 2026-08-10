@@ -35,13 +35,9 @@ because the media/viewer is hosted by a third party. The embed is kept intact
 so it works when you are online, and a captioned placeholder explains it.
 
 - **3D models** (Sketchfab `<iframe>`): the model and its WebGL viewer are
-  hosted on sketchfab.com. To make these fully offline you would need to
-  download the model (e.g. a `.glb` from Sketchfab's download API, which may
-  require an account) and embed it with a local viewer such as
-  [<model-viewer>](https://modelviewer.dev/).
-- **Videos** (YouTube `<iframe>`): the video stream is served by YouTube. To
-  make these fully offline you would need to download each video (e.g. with
-  `yt-dlp`) and swap the `<iframe>` for a local `<video>` tag.
+  hosted on sketchfab.com and cannot run without an internet connection.
+- **Videos** (YouTube `<iframe>`): the video stream is served by YouTube and
+  cannot play without an internet connection.
 
 ## Possible gaps
 
