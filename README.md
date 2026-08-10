@@ -1,3 +1,5 @@
+NOTE: this repo and the documentation below was entirely generated with a coding assistant as an experiment to test abilities to staticise a site.
+
 # site2static
 
 Python tool that scrapes the *Making History: Shakespeare and the Royal Family*
