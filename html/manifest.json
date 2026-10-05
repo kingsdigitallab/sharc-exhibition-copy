@@ -1,200 +1,28 @@
 {
   "source": "https://sharc.kcl.ac.uk/exhibition/",
   "pages": 75,
-  "assets_ok": 216,
-  "assets_failed": 270,
+  "assets_ok": 250,
+  "assets_failed": 116,
   "failures": [
     {
-      "url": "https://sharc.kcl.ac.uk/exhibition/favicon/apple-touch-icon.png",
+      "url": "https://sharc.kcl.ac.uk/exhibition/favicon/site.webmanifest",
       "reason": "status 404"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/62577/full/1024,1024/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/54729/full/1024,1024/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
     },
     {
       "url": "https://images.cogapp.com/iiif/sharc/Block-of-oak-BM.tiff/full/!1024,/0/default.jpg",
       "reason": "status 400"
     },
     {
-      "url": "https://rct.resourcespace.com/iiif/image/39979/full/622,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
+      "url": "https://sharc.kcl.ac.uk/exhibition/favicon/apple-touch-icon.png",
+      "reason": "status 404"
     },
     {
-      "url": "https://rct.resourcespace.com/iiif/image/62577/full/600,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://sharc.kcl.ac.uk/exhibition/section-one-staging-history",
+      "url": "https://sharc.kcl.ac.uk/exhibition",
       "reason": "validation (binary) ct=text/html; charset=UTF-8"
     },
     {
-      "url": "https://rct.resourcespace.com/iiif/image/6470/full/622,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/54714/full/622,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/54729/full/622,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://sharc.kcl.ac.uk/exhibition/section-one-staging-history/sad-stories-of-the-death-of-kings-richard-ii",
-      "reason": "validation (binary) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/6470/full/,794/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/62579/full/372,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/62570/full/372,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/42155/full/372,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/62577/full/372,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/62040/full/372,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/6470/full/372,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/54721/full/1024,1024/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/6470/full/600,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://sharc.kcl.ac.uk/exhibition/section-one-staging-history/a-royal-villain-richard-iii",
-      "reason": "validation (binary) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/54714/full/372,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/75782/full/372,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/69492/full/372,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/42189/full/372,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/62581/full/372,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/62041/full/372,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/54714/full/600,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://sharc.kcl.ac.uk/exhibition/section-one-staging-history/queens-on-trial-henry-viii",
-      "reason": "validation (binary) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/39979/full/372,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://sharc.kcl.ac.uk/exhibition/section-two-acting-royal",
-      "reason": "validation (binary) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/54711/full/622,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/54729/full/600,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://sharc.kcl.ac.uk/exhibition/section-two-acting-royal/wayward-princes-coming-of-age-henry-v",
-      "reason": "validation (binary) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/54723/full/372,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/62576/full/372,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://sharc.kcl.ac.uk/exhibition/section-two-acting-royal/the-prince-and-the-actress-the-winters-tale",
-      "reason": "validation (binary) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/54728/full/372,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/54711/full/372,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/54729/full/372,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/54711/full/600,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://sharc.kcl.ac.uk/exhibition/section-two-acting-royal/a-mad-king-king-lear",
-      "reason": "validation (binary) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/54417/full/372,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/75916/full/372,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/39607/full/372,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/62578/full/372,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/54710/full/1024,1024/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/54719/full/1024,1024/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
+      "url": "https://sharc.kcl.ac.uk/exhibition/favicon/favicon.ico",
+      "reason": "status 404"
     },
     {
       "url": "https://sharc.kcl.ac.uk/exhibition/favicon/favicon-32x32.png",
@@ -205,23 +33,7 @@
       "reason": "status 404"
     },
     {
-      "url": "https://rct.resourcespace.com/iiif/image/39607/full/600,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/54689/full/622,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/54709/full/622,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/54689/full/,794/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://sharc.kcl.ac.uk/exhibition",
+      "url": "https://sharc.kcl.ac.uk/exhibition/section-one-staging-history",
       "reason": "validation (binary) ct=text/html; charset=UTF-8"
     },
     {
@@ -229,75 +41,39 @@
       "reason": "status 404"
     },
     {
-      "url": "https://sharc.kcl.ac.uk/exhibition/favicon/site.webmanifest",
-      "reason": "status 404"
+      "url": "https://sharc.kcl.ac.uk/exhibition/section-one-staging-history/sad-stories-of-the-death-of-kings-richard-ii",
+      "reason": "validation (binary) ct=text/html; charset=UTF-8"
     },
     {
-      "url": "https://rct.resourcespace.com/iiif/image/54689/full/372,/0/default.jpg",
+      "url": "https://sharc.kcl.ac.uk/exhibition/section-one-staging-history/a-royal-villain-richard-iii",
+      "reason": "validation (binary) ct=text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://sharc.kcl.ac.uk/exhibition/section-one-staging-history/queens-on-trial-henry-viii",
+      "reason": "validation (binary) ct=text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://rct.resourcespace.com/iiif/image/54719/full/1024,1024/0/default.jpg",
       "reason": "validation (image) ct=text/html; charset=UTF-8"
     },
     {
-      "url": "https://rct.resourcespace.com/iiif/image/54689/full/600,/0/default.jpg",
+      "url": "https://rct.resourcespace.com/iiif/image/54710/full/1024,1024/0/default.jpg",
       "reason": "validation (image) ct=text/html; charset=UTF-8"
     },
     {
-      "url": "https://rct.resourcespace.com/iiif/image/62575/full/372,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
+      "url": "https://sharc.kcl.ac.uk/exhibition/section-two-acting-royal",
+      "reason": "validation (binary) ct=text/html; charset=UTF-8"
     },
     {
-      "url": "https://sharc.kcl.ac.uk/exhibition/favicon/favicon.ico",
-      "reason": "status 404"
+      "url": "https://sharc.kcl.ac.uk/exhibition/section-two-acting-royal/wayward-princes-coming-of-age-henry-v",
+      "reason": "validation (binary) ct=text/html; charset=UTF-8"
     },
     {
-      "url": "https://rct.resourcespace.com/iiif/image/54709/full/372,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
+      "url": "https://sharc.kcl.ac.uk/exhibition/section-two-acting-royal/the-prince-and-the-actress-the-winters-tale",
+      "reason": "validation (binary) ct=text/html; charset=UTF-8"
     },
     {
-      "url": "https://rct.resourcespace.com/iiif/image/39845/full/372,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/62572/full/372,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/54714/full/350,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/54709/full/600,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/54689/full/350,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/54723/full/350,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/39845/full/350,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/75782/full/350,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/62575/full/350,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/54728/full/350,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/54711/full/350,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://sharc.kcl.ac.uk/exhibition/section-three-martyrs-and-relics/a-royal-martyrs-folio",
+      "url": "https://sharc.kcl.ac.uk/exhibition/section-two-acting-royal/a-mad-king-king-lear",
       "reason": "validation (binary) ct=text/html; charset=UTF-8"
     },
     {
@@ -305,79 +81,27 @@
       "reason": "validation (binary) ct=text/html; charset=UTF-8"
     },
     {
-      "url": "https://rct.resourcespace.com/iiif/image/54417/full/350,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/54729/full/350,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/39607/full/350,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/62579/full/350,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/69492/full/350,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/42189/full/350,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/62581/full/350,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/62041/full/350,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/6470/full/350,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/54709/full/350,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/62577/full/350,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
+      "url": "https://sharc.kcl.ac.uk/exhibition/section-three-martyrs-and-relics/a-royal-martyrs-folio",
+      "reason": "validation (binary) ct=text/html; charset=UTF-8"
     },
     {
       "url": "https://sharc.kcl.ac.uk/exhibition/section-three-martyrs-and-relics/family-trees-the-merry-wives-of-windsor",
       "reason": "validation (binary) ct=text/html; charset=UTF-8"
     },
     {
-      "url": "https://rct.resourcespace.com/iiif/image/62579/full/1024,1024/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
+      "url": "https://sharc.kcl.ac.uk/exhibition/acknowledgments",
+      "reason": "validation (binary) ct=text/html; charset=UTF-8"
     },
     {
       "url": "https://sharc.kcl.ac.uk/exhibition/contact",
       "reason": "validation (binary) ct=text/html; charset=UTF-8"
     },
     {
-      "url": "https://rct.resourcespace.com/iiif/image/62570/full/622,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/62579/full/600,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://sharc.kcl.ac.uk/exhibition/acknowledgments",
+      "url": "https://sharc.kcl.ac.uk/exhibition/terms-of-use",
       "reason": "validation (binary) ct=text/html; charset=UTF-8"
     },
     {
-      "url": "https://rct.resourcespace.com/iiif/image/62579/full/184,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/62570/full/184,/0/default.jpg",
+      "url": "https://rct.resourcespace.com/iiif/image/54725/full/1024,1024/0/default.jpg",
       "reason": "validation (image) ct=text/html; charset=UTF-8"
     },
     {
@@ -385,88 +109,20 @@
       "reason": "validation (binary) ct=text/html; charset=UTF-8"
     },
     {
-      "url": "https://rct.resourcespace.com/iiif/image/42189/full/622,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/62570/full/1024,1024/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://sharc.kcl.ac.uk/exhibition/terms-of-use",
-      "reason": "validation (binary) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/42155/full/184,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/62579/full/622,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/54725/full/1024,1024/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/62570/full/600,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/42155/full/1024,1024/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
       "url": "https://sharc.kcl.ac.uk/exhibition/accessibility-statement",
       "reason": "validation (binary) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/42155/full/600,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/62577/full/184,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/62581/full/622,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
     },
     {
       "url": "https://images.cogapp.com/iiif/sharc/Tableau-from-final-scene-Richard-II.tiff/full/!1024,1024/0/default.jpg",
       "reason": "status 400"
     },
     {
-      "url": "https://rct.resourcespace.com/iiif/image/62040/full/184,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
       "url": "https://sharc.kcl.ac.uk/exhibition/section-one-staging-history/sad-stories-of-the-death-of-kings-richard-ii/queen-victorias-journal-for-27-january-1838-1",
       "reason": "validation (binary) ct=text/html; charset=UTF-8"
     },
     {
-      "url": "https://rct.resourcespace.com/iiif/image/62040/full/1024,1024/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/6470/full/184,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/62041/full/622,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/62040/full/600,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
       "url": "https://sharc.kcl.ac.uk/exhibition/section-one-staging-history/sad-stories-of-the-death-of-kings-richard-ii/sketch-showing-the-historical-episode-in-richard-ii-1",
       "reason": "validation (binary) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/6470/full/1024,1024/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
     },
     {
       "url": "https://sharc.kcl.ac.uk/exhibition/section-one-staging-history/sad-stories-of-the-death-of-kings-richard-ii/theatrical-album",
@@ -481,10 +137,6 @@
       "reason": "validation (binary) ct=text/html; charset=UTF-8"
     },
     {
-      "url": "https://rct.resourcespace.com/iiif/image/54714/full/184,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
       "url": "https://sharc.kcl.ac.uk/exhibition/timeline",
       "reason": "validation (binary) ct=text/html; charset=UTF-8"
     },
@@ -493,67 +145,15 @@
       "reason": "validation (binary) ct=text/html; charset=UTF-8"
     },
     {
-      "url": "https://rct.resourcespace.com/iiif/image/54714/full/1024,1024/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
       "url": "https://sharc.kcl.ac.uk/exhibition/section-one-staging-history/sad-stories-of-the-death-of-kings-richard-ii/sketch-showing-costumes-for-the-final-scene-of-richard-ii-1",
       "reason": "validation (binary) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/75782/full/184,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/54723/full/622,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/75782/full/1024,1024/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/69492/full/184,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
     },
     {
       "url": "https://sharc.kcl.ac.uk/exhibition/section-one-staging-history/sad-stories-of-the-death-of-kings-richard-ii/mr-ryder-as-henry-iv-surrounded-by-his-sons-1",
       "reason": "validation (binary) ct=text/html; charset=UTF-8"
     },
     {
-      "url": "https://rct.resourcespace.com/iiif/image/39607/full/622,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/54417/full/622,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
       "url": "https://sharc.kcl.ac.uk/exhibition/section-one-staging-history/sad-stories-of-the-death-of-kings-richard-ii/prince-arthur-and-prince-leopold-in-the-costume-of-the-sons-of-king-henry-ivth-1",
-      "reason": "validation (binary) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/75782/full/600,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/69492/full/1024,1024/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/42155/full/622,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/62576/full/622,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/69492/full/600,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://sharc.kcl.ac.uk/exhibition/section-one-staging-history/sad-stories-of-the-death-of-kings-richard-ii/scene-painting-richard-ii-at-the-royal-princess-theatre-1857-final-scene-st-georges-hall-windsor-castle-1",
       "reason": "validation (binary) ct=text/html; charset=UTF-8"
     },
     {
@@ -561,15 +161,7 @@
       "reason": "status 400"
     },
     {
-      "url": "https://rct.resourcespace.com/iiif/image/62575/full/622,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/42189/full/184,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://sharc.kcl.ac.uk/exhibition/section-one-staging-history/sad-stories-of-the-death-of-kings-richard-ii/digital-reconstruction-of-st-georges-hall-in-1857-1",
+      "url": "https://sharc.kcl.ac.uk/exhibition/section-one-staging-history/sad-stories-of-the-death-of-kings-richard-ii/scene-painting-richard-ii-at-the-royal-princess-theatre-1857-final-scene-st-georges-hall-windsor-castle-1",
       "reason": "validation (binary) ct=text/html; charset=UTF-8"
     },
     {
@@ -577,20 +169,12 @@
       "reason": "status 404"
     },
     {
-      "url": "https://rct.resourcespace.com/iiif/image/62040/full/622,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/42189/full/1024,1024/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/42189/full/600,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
       "url": "https://images.cogapp.com/iiif/sharc/Cruikshank-Clarences-Dream-BM.tiff/full/!1024,1024/0/default.jpg",
       "reason": "status 400"
+    },
+    {
+      "url": "https://sharc.kcl.ac.uk/exhibition/section-one-staging-history/sad-stories-of-the-death-of-kings-richard-ii/digital-reconstruction-of-st-georges-hall-in-1857-1",
+      "reason": "validation (binary) ct=text/html; charset=UTF-8"
     },
     {
       "url": "https://images.cogapp.com/iiif/sharc/Mrs-Jordan.tiff/full/!1024,1024/0/default.jpg",
@@ -601,64 +185,24 @@
       "reason": "status 400"
     },
     {
-      "url": "https://rct.resourcespace.com/iiif/image/62581/full/184,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
+      "url": "https://sharc.kcl.ac.uk/exhibition/section-one-staging-history/a-royal-villain-richard-iii/george-iiis-essays-on-english-history-1",
+      "reason": "validation (binary) ct=text/html; charset=UTF-8"
     },
     {
       "url": "https://sharc.kcl.ac.uk/exhibition/section-one-staging-history/a-royal-villain-richard-iii/richard-iii-1",
       "reason": "validation (binary) ct=text/html; charset=UTF-8"
     },
     {
-      "url": "https://sharc.kcl.ac.uk/exhibition/section-one-staging-history/a-royal-villain-richard-iii/george-iiis-essays-on-english-history-1",
-      "reason": "validation (binary) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/62581/full/1024,1024/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/62041/full/184,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/62577/full/622,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/62581/full/600,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/62041/full/1024,1024/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/62041/full/600,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
       "url": "https://sharc.kcl.ac.uk/exhibition/section-one-staging-history/a-royal-villain-richard-iii/edward-viis-school-books-history-essay-on-english-monarchs-1",
       "reason": "validation (binary) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/39979/full/1024,1024/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
     },
     {
       "url": "https://sharc.kcl.ac.uk/exhibition/section-one-staging-history/a-royal-villain-richard-iii/david-garrick-as-richard-iii-1",
       "reason": "validation (binary) ct=text/html; charset=UTF-8"
     },
     {
-      "url": "https://rct.resourcespace.com/iiif/image/39979/full/600,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
       "url": "https://images.cogapp.com/iiif/sharc/Union-Club-Masquerade.tiff/full/!1024,1024/0/default.jpg",
       "reason": "status 400"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/39979/full/184,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
     },
     {
       "url": "https://sharc.kcl.ac.uk/exhibition/section-one-staging-history/a-royal-villain-richard-iii/a-scene-in-richard-iii-1",
@@ -677,35 +221,23 @@
       "reason": "status 400"
     },
     {
-      "url": "https://rct.resourcespace.com/iiif/image/54726/full/1024,1024/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
       "url": "https://sharc.kcl.ac.uk/exhibition/section-one-staging-history/a-royal-villain-richard-iii/king-richard-iii-act-iv-scene-iii",
       "reason": "validation (binary) ct=text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://rct.resourcespace.com/iiif/image/54726/full/1024,1024/0/default.jpg",
+      "reason": "validation (image) ct=text/html; charset=UTF-8"
     },
     {
       "url": "https://images.cogapp.com/iiif/sharc/The-Trial-of-Queen-Victoria-BM-fair-use-version.tiff/full/!1024,1024/0/default.jpg",
       "reason": "status 400"
     },
     {
-      "url": "https://rct.resourcespace.com/iiif/image/54729/full/184,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
       "url": "https://sharc.kcl.ac.uk/exhibition/section-one-staging-history/a-royal-villain-richard-iii/princes-in-the-tower-1",
       "reason": "validation (binary) ct=text/html; charset=UTF-8"
     },
     {
-      "url": "https://rct.resourcespace.com/iiif/image/54723/full/1024,1024/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
       "url": "https://rct.resourcespace.com/iiif/image/54712/full/1024,1024/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/54723/full/600,/0/default.jpg",
       "reason": "validation (image) ct=text/html; charset=UTF-8"
     },
     {
@@ -717,11 +249,11 @@
       "reason": "status 400"
     },
     {
-      "url": "https://rct.resourcespace.com/iiif/image/54723/full/184,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
+      "url": "https://sharc.kcl.ac.uk/exhibition/section-one-staging-history/queens-on-trial-henry-viii/king-henry-the-eighth-and-anna-bullen-1",
+      "reason": "validation (binary) ct=text/html; charset=UTF-8"
     },
     {
-      "url": "https://sharc.kcl.ac.uk/exhibition/section-one-staging-history/queens-on-trial-henry-viii/king-henry-the-eighth-and-anna-bullen-1",
+      "url": "https://sharc.kcl.ac.uk/exhibition/section-one-staging-history/queens-on-trial-henry-viii/the-union-club-masquerade-1",
       "reason": "validation (binary) ct=text/html; charset=UTF-8"
     },
     {
@@ -731,10 +263,6 @@
     {
       "url": "https://images.cogapp.com/iiif/sharc/Cruikshank-False-LIberty-Yale.tiff/full/!1024,1024/0/default.jpg",
       "reason": "status 400"
-    },
-    {
-      "url": "https://sharc.kcl.ac.uk/exhibition/section-one-staging-history/queens-on-trial-henry-viii/the-union-club-masquerade-1",
-      "reason": "validation (binary) ct=text/html; charset=UTF-8"
     },
     {
       "url": "https://images.cogapp.com/iiif/sharc/Heath-King-Henry-IV-BM.tiff/full/!1024,1024/0/default.jpg",
@@ -749,76 +277,36 @@
       "reason": "validation (binary) ct=text/html; charset=UTF-8"
     },
     {
-      "url": "https://rct.resourcespace.com/iiif/image/62576/full/184,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
       "url": "https://sharc.kcl.ac.uk/exhibition/section-one-staging-history/queens-on-trial-henry-viii/the-trial-of-queen-victoria-1",
       "reason": "validation (binary) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/62576/full/1024,1024/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/69492/full/622,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/62576/full/600,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
     },
     {
       "url": "https://sharc.kcl.ac.uk/exhibition/section-two-acting-royal/wayward-princes-coming-of-age-henry-v/the-henry-the-fifth-club-or-the-gang-1",
       "reason": "validation (binary) ct=text/html; charset=UTF-8"
     },
     {
-      "url": "https://rct.resourcespace.com/iiif/image/54711/full/184,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
       "url": "https://sharc.kcl.ac.uk/exhibition/section-two-acting-royal/wayward-princes-coming-of-age-henry-v/falstaff-and-his-prince-1",
       "reason": "validation (binary) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/54728/full/184,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
     },
     {
       "url": "https://sharc.kcl.ac.uk/exhibition/section-two-acting-royal/wayward-princes-coming-of-age-henry-v/false-liberty-rejected-or-fraternizing-equalizing-principles-discarded-1",
       "reason": "validation (binary) ct=text/html; charset=UTF-8"
     },
     {
-      "url": "https://rct.resourcespace.com/iiif/image/54728/full/1024,1024/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
       "url": "https://sharc.kcl.ac.uk/exhibition/section-two-acting-royal/wayward-princes-coming-of-age-henry-v/king-henry-iv-1",
       "reason": "validation (binary) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/54728/full/600,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://images.cogapp.com/iiif/sharc/Robinson-Wallace-Collaction.tiff/full/!1024,1024/0/default.jpg",
-      "reason": "status 400"
     },
     {
       "url": "https://sharc.kcl.ac.uk/exhibition/section-two-acting-royal/wayward-princes-coming-of-age-henry-v/shade-of-falstaff-1",
       "reason": "validation (binary) ct=text/html; charset=UTF-8"
     },
     {
-      "url": "https://rct.resourcespace.com/iiif/image/54711/full/1024,1024/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
+      "url": "https://images.cogapp.com/iiif/sharc/Robinson-Wallace-Collaction.tiff/full/!1024,1024/0/default.jpg",
+      "reason": "status 400"
     },
     {
       "url": "https://sharc.kcl.ac.uk/exhibition/section-two-acting-royal/wayward-princes-coming-of-age-henry-v/cradle-and-stand",
       "reason": "validation (binary) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/54728/full/622,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
     },
     {
       "url": "https://sharc.kcl.ac.uk/exhibition/section-two-acting-royal/wayward-princes-coming-of-age-henry-v/it-is-the-prince-of-wales-1",
@@ -829,64 +317,28 @@
       "reason": "status 400"
     },
     {
-      "url": "https://rct.resourcespace.com/iiif/image/39607/full/184,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
       "url": "https://sharc.kcl.ac.uk/exhibition/section-two-acting-royal/wayward-princes-coming-of-age-henry-v/digital-reconstruction-of-the-waterloo-chamber-in-1944-1",
       "reason": "validation (binary) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/54417/full/1024,1024/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/75782/full/622,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
     },
     {
       "url": "https://sharc.kcl.ac.uk/exhibition/section-two-acting-royal/the-prince-and-the-actress-the-winters-tale/miniatures-of-george-iv",
       "reason": "validation (binary) ct=text/html; charset=UTF-8"
     },
     {
-      "url": "https://rct.resourcespace.com/iiif/image/54417/full/600,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
       "url": "https://images.cogapp.com/iiif/sharc/Cruikshank-State-Miners-BM.tiff/full/!1024,1024/0/default.jpg",
       "reason": "status 400"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/54417/full/184,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://sharc.kcl.ac.uk/exhibition/section-two-acting-royal/the-prince-and-the-actress-the-winters-tale/george-iv-when-prince-of-wales-2-1",
-      "reason": "validation (binary) ct=text/html; charset=UTF-8"
     },
     {
       "url": "https://images.cogapp.com/iiif/sharc/Prospero-Enchanted-Isle.tiff/full/!1024,1024/0/default.jpg",
       "reason": "status 400"
     },
     {
-      "url": "https://rct.resourcespace.com/iiif/image/75916/full/184,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/75916/full/1024,1024/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
+      "url": "https://sharc.kcl.ac.uk/exhibition/section-two-acting-royal/the-prince-and-the-actress-the-winters-tale/george-iv-when-prince-of-wales-2-1",
+      "reason": "validation (binary) ct=text/html; charset=UTF-8"
     },
     {
       "url": "https://sharc.kcl.ac.uk/exhibition/section-two-acting-royal/the-prince-and-the-actress-the-winters-tale/mrs-mary-robinson-perdita-2",
       "reason": "validation (binary) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/75916/full/600,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/39607/full/1024,1024/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
     },
     {
       "url": "https://sharc.kcl.ac.uk/exhibition/section-two-acting-royal/the-prince-and-the-actress-the-winters-tale/mrs-mary-robinson-perdita",
@@ -897,35 +349,15 @@
       "reason": "status 400"
     },
     {
-      "url": "https://rct.resourcespace.com/iiif/image/62578/full/184,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
       "url": "https://sharc.kcl.ac.uk/exhibition/section-two-acting-royal/the-prince-and-the-actress-the-winters-tale/george-iv-when-prince-of-wales-2",
       "reason": "validation (binary) ct=text/html; charset=UTF-8"
     },
     {
-      "url": "https://rct.resourcespace.com/iiif/image/62578/full/1024,1024/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/62578/full/600,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://sharc.kcl.ac.uk/exhibition/section-two-acting-royal/a-mad-king-king-lear/letter-to-the-prince-of-wales-1",
+      "url": "https://sharc.kcl.ac.uk/exhibition/section-two-acting-royal/the-prince-and-the-actress-the-winters-tale/perdita-upon-her-last-legs-1",
       "reason": "validation (binary) ct=text/html; charset=UTF-8"
     },
     {
-      "url": "https://rct.resourcespace.com/iiif/image/54689/full/1024,1024/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/54709/full/184,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://sharc.kcl.ac.uk/exhibition/section-two-acting-royal/the-prince-and-the-actress-the-winters-tale/perdita-upon-her-last-legs-1",
+      "url": "https://sharc.kcl.ac.uk/exhibition/section-two-acting-royal/a-mad-king-king-lear/letter-to-the-prince-of-wales-1",
       "reason": "validation (binary) ct=text/html; charset=UTF-8"
     },
     {
@@ -933,11 +365,7 @@
       "reason": "validation (binary) ct=text/html; charset=UTF-8"
     },
     {
-      "url": "https://rct.resourcespace.com/iiif/image/54709/full/1024,1024/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://sharc.kcl.ac.uk/exhibition/section-two-acting-royal/a-mad-king-king-lear/king-lear",
+      "url": "https://sharc.kcl.ac.uk/exhibition/section-two-acting-royal/a-mad-king-king-lear/george-iii-3",
       "reason": "validation (binary) ct=text/html; charset=UTF-8"
     },
     {
@@ -945,27 +373,11 @@
       "reason": "status 400"
     },
     {
-      "url": "https://rct.resourcespace.com/iiif/image/54689/full/184,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/62575/full/184,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/62575/full/1024,1024/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/62574/full/850,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://sharc.kcl.ac.uk/exhibition/section-two-acting-royal/a-mad-king-king-lear/george-iii-3",
+      "url": "https://sharc.kcl.ac.uk/exhibition/section-two-acting-royal/a-mad-king-king-lear/king-lear",
       "reason": "validation (binary) ct=text/html; charset=UTF-8"
     },
     {
-      "url": "https://rct.resourcespace.com/iiif/image/62575/full/600,/0/default.jpg",
+      "url": "https://rct.resourcespace.com/iiif/image/62574/full/850,/0/default.jpg",
       "reason": "validation (image) ct=text/html; charset=UTF-8"
     },
     {
@@ -981,32 +393,16 @@
       "reason": "status 400"
     },
     {
-      "url": "https://rct.resourcespace.com/iiif/image/39845/full/184,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
       "url": "https://sharc.kcl.ac.uk/exhibition/section-two-acting-royal/a-mad-king-king-lear/george-iii-2",
       "reason": "validation (binary) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/39845/full/1024,1024/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
     },
     {
       "url": "https://sharc.kcl.ac.uk/exhibition/section-three-martyrs-and-relics/a-royal-martyrs-folio/comedies-histories-and-tragedies-published-according-to-the-true-originall-copies-1",
       "reason": "validation (binary) ct=text/html; charset=UTF-8"
     },
     {
-      "url": "https://rct.resourcespace.com/iiif/image/39845/full/600,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
       "url": "https://images.cogapp.com/iiif/sharc/hernes-oak-c19-without-frame.tiff/full/!1024,1024/0/default.jpg",
       "reason": "status 400"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/39845/full/622,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
     },
     {
       "url": "https://sharc.kcl.ac.uk/exhibition/section-three-martyrs-and-relics/family-trees-the-merry-wives-of-windsor/anne-page-1",
@@ -1017,20 +413,8 @@
       "reason": "status 400"
     },
     {
-      "url": "https://rct.resourcespace.com/iiif/image/62572/full/184,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
       "url": "https://sharc.kcl.ac.uk/exhibition/section-three-martyrs-and-relics/family-trees-the-merry-wives-of-windsor/the-merry-wives-of-windsor-illustrated-by-hugh-thomson-1",
       "reason": "validation (binary) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/62572/full/1024,1024/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://rct.resourcespace.com/iiif/image/62572/full/600,/0/default.jpg",
-      "reason": "validation (image) ct=text/html; charset=UTF-8"
     },
     {
       "url": "https://sharc.kcl.ac.uk/exhibition/section-three-martyrs-and-relics/family-trees-the-merry-wives-of-windsor/three-mulberry-boxes-1",
@@ -1041,16 +425,16 @@
       "reason": "status 400"
     },
     {
+      "url": "https://sharc.kcl.ac.uk/exhibition/section-three-martyrs-and-relics/family-trees-the-merry-wives-of-windsor/hernes-oak-windsor-park-1",
+      "reason": "validation (binary) ct=text/html; charset=UTF-8"
+    },
+    {
       "url": "https://sharc.kcl.ac.uk/exhibition/section-three-martyrs-and-relics/family-trees-the-merry-wives-of-windsor/bill-1",
       "reason": "validation (binary) ct=text/html; charset=UTF-8"
     },
     {
       "url": "https://images.cogapp.com/iiif/sharc/Casket-FSL.tiff/full/!1024,1024/0/default.jpg",
       "reason": "status 400"
-    },
-    {
-      "url": "https://sharc.kcl.ac.uk/exhibition/section-three-martyrs-and-relics/family-trees-the-merry-wives-of-windsor/hernes-oak-windsor-park-1",
-      "reason": "validation (binary) ct=text/html; charset=UTF-8"
     },
     {
       "url": "https://images.cogapp.com/iiif/sharc/Queen-Elizabeth-Viewing-the-Merry-Wives-of-Windsor.tiff/full/!1024,1024/0/default.jpg",
@@ -1073,11 +457,11 @@
       "reason": "validation (binary) ct=text/html; charset=UTF-8"
     },
     {
-      "url": "https://sharc.kcl.ac.uk/exhibition/section-three-martyrs-and-relics/family-trees-the-merry-wives-of-windsor/a-treatise-on-the-identity-of-hernes-oak-shewing-the-maiden-tree-to-have-been-the-real-one-1",
+      "url": "https://sharc.kcl.ac.uk/exhibition/section-three-martyrs-and-relics/family-trees-the-merry-wives-of-windsor/casket-carved-in-an-elaborate-elizabethan-style-1",
       "reason": "validation (binary) ct=text/html; charset=UTF-8"
     },
     {
-      "url": "https://sharc.kcl.ac.uk/exhibition/section-three-martyrs-and-relics/family-trees-the-merry-wives-of-windsor/casket-carved-in-an-elaborate-elizabethan-style-1",
+      "url": "https://sharc.kcl.ac.uk/exhibition/section-three-martyrs-and-relics/family-trees-the-merry-wives-of-windsor/a-treatise-on-the-identity-of-hernes-oak-shewing-the-maiden-tree-to-have-been-the-real-one-1",
       "reason": "validation (binary) ct=text/html; charset=UTF-8"
     },
     {
